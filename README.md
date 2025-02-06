@@ -1,69 +1,83 @@
-# 💻 Nabil Deja 
-**`Frontend Developer & Cybersecurity Enthusiast`**  
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7986a50d-a58f-457d-a219-9a9245556acf/dg6x7ox-e107b45a-447e-4bd4-b8f2-0eb4429557d6.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+# Hi 👋, I'm Nabil Deja
+### A passionate Frontend Developer and Cybersecurity Enthusiast
 
----
+<img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
-## 🚀 About Me  
-Passionate about crafting beautiful web experiences and securing digital frontiers. When I'm not coding, you'll find me exploring the latest in cybersecurity or contributing to open-source projects.
+![Profile Views](https://komarev.com/ghpvc/?username=nbill27&label=Profile%20views&color=0e75b6&style=flat)
 
----
+## 🌱 Currently Learning:
+- React.js
+- Flask
+- Ruby
 
-## 🛠 Tech Stack  
-### Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 💬 Ask me about:
+- Network Security
+- Website Development
 
-### Backend & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cybersecurity Tools  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+## 📫 Contact Me:
+- **Email:** nabildeja0@gmail.com
+- **Instagram:** [@nnbiiill](https://instagram.com/nnbiiill)
 
 ---
 
-## 🌱 Current Focus  
-- 🧠 Deep diving into **React Hooks & Context API**
-- 🔐 Exploring **OWASP Top 10 Vulnerabilities**
-- ✨ Experimenting with **Three.js for WebGL animations**
+## 🛠️ Languages and Tools:
 
----
-
-## 📈 GitHub Analytics  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&theme=nightowl&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbill27&layout=compact&theme=nightowl"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27&theme=nightowl" alt="nbill27" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph  
-![Contribution Snake](https://raw.githubusercontent.com/nbill27/nbill27/output/github-contribution-grid-snake-dark.svg)
+## 📊 GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbill27&show_icons=true&locale=en&layout=compact" alt="nbill27" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&locale=en" alt="nbill27" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27&" alt="nbill27" />
+</p>
 
 ---
 
-## 📬 Let's Connect  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabildeja0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabil-deja)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nnbiiill)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nbill27)
+## 🌐 Connect with Me:
+
+<p>
+  <a href="https://behance.net/technologyhell" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
+  <a href="https://discord.gg/6ME9TDt" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/technologyhell" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/technologyhell" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nitishsinghslg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitch.tv/technologyhell" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+  <a href="https://x.com/technologyhell" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://youtube.com/@technologyhell" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💡 Did You Know?  
-*"The first computer virus was created in 1983 and was called 'Elk Cloner'."*  
-*Fun fact: I once fixed a production bug while riding a roller coaster! 🎢*
+## 🐍 GitHub Contribution Snake:
 
-⭐ From [nbill27](https://github.com/nbill27)
+![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 
+---
+
+## 🔢 Visitor Counter:
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)
