@@ -8,13 +8,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nbill27&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌱 Currently Learning:
-- React.js
-- Flask
-- Ruby
+- **React.js**
+- **Flask**
+- **Ruby**
+- **Python**
 
 ## 💬 Ask me about:
-- Network Security
-- Website Development
+- *Network Security*
+- *Website Development*
 
 ## 📫 Contact Me:
 - **Email:** nabildeja0@gmail.com
@@ -78,6 +79,6 @@
 
 ---
 
-## 🔢 Visitor Counter:
+### 🔢 Visitor Counter:
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=nbill27&label=Profile%20views&color=0e75b6&style=flat)
