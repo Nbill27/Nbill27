@@ -5,7 +5,24 @@
 
 <img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=nbill27&label=Profile%20views&color=0e75b6&style=flat)
+---
+
+## 🌐 Sosial Saya
+
+<p align="center">
+  <a href="https://github.com/Nbill27" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/nnbiiill" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:nabildeja0@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/nbill27" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -21,20 +38,40 @@
 
 - **PHP**  
 - **Java**  
-- **C++**  
+- **C++** (a little)  
 - **Python**
 
 ---
 
 ## 📌 Projects
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| [🔒 Web Scanner](https://github.com/Nbill27/Nbill27-Website-Security-Scanner) | Website vulnerability scanner tool built with Python. | ✅ Published |
-| [🚌 JetBus](https://github.com/Nbill27/JetBus) | Online ticket booking system for buses. | ✅ Published |
-| 🌧️ Flood Predictor AI | Predict flood risk using rainfall and elevation data. | 🛠️ In Progress |
-| 📝 Sistem LK Kampus | Digital (activity log) for campus use. | 🛠️ Coming Soon |
-| 🏛️ Sistem Pendaftaran Organisasi | Online registration system for student organizations. | 🛠️ Coming Soon |
+### 🔒 [Web Scanner](https://github.com/Nbill27/Nbill27-Website-Security-Scanner)  
+_A powerful website vulnerability scanner built with Python._  
+**Status:** ✅ Published  
+
+---
+
+### 🚌 [JetBus](https://github.com/Nbill27/JetBus)  
+_Online bus ticket booking system with smooth UX and secure payment integration._  
+**Status:** ✅ Published  
+
+---
+
+### 🌧️ Flood Predictor AI  
+_Predicts flood risk based on rainfall data and geographic elevation using AI models._  
+**Status:** 🛠️ In Progress  
+
+---
+
+### 📝 Sistem LK Kampus  
+_Digital activity log system designed for campus use to streamline documentation._  
+**Status:** 🛠️ Coming Soon  
+
+---
+
+### 🏛️ Sistem Pendaftaran Organisasi  
+_An online registration platform for student organizations to simplify event management._  
+**Status:** 🛠️ Coming Soon  
 
 ---
 
@@ -49,29 +86,22 @@
 ## 💬 Ask Me About
 
 - 🛡️ *Cybersecurity (Network & Web Security)*  
-- 🌐 *Fullstack Website Development* 
-
----
-
-## 📫 Contact Me
-
-- ✉️ **Email**: nabildeja0@gmail.com  
-- 📸 **Instagram**: [@nnbiiill](https://instagram.com/nnbiiill)
+- 🌐 *Fullstack Website Development*  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
 </p>
 
 ---
@@ -79,30 +109,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbill27&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbill27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p>
-  <a href="https://behance.net/technologyhell"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://discord.gg/6ME9TDt"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/technologyhell"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/technologyhell"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nitishsinghslg"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitch.tv/technologyhell"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
-  <a href="https://x.com/technologyhell"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://youtube.com/@technologyhell"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27" alt="GitHub Streak" />
 </p>
 
 ---
