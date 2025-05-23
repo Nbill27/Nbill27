@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Highlighted Projects
+## 📌 Projects
 
 | Project | Description | Status |
 |--------|-------------|--------|
