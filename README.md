@@ -38,7 +38,7 @@
 
 - **PHP**  
 - **Java**  
-- **C++** (a little)  
+- **C++**
 - **Python**
 
 ---
