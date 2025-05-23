@@ -33,8 +33,7 @@
 | [🔒 Web Scanner](https://github.com/Nbill27/Nbill27-Website-Security-Scanner) | Website vulnerability scanner tool built with Python. | ✅ Published |
 | [🚌 JetBus](https://github.com/Nbill27/JetBus) | Online ticket booking system for buses. | ✅ Published |
 | 🌧️ Flood Predictor AI | Predict flood risk using rainfall and elevation data. | 🛠️ In Progress |
-| 📸 Virtual Photobooth Web | Web-based photobooth app with filters and overlays. | 🛠️ In Progress |
-| 📝 Sistem LK Kampus | Digital "Lembar Kerja" (activity log) for campus use. | 🛠️ Coming Soon |
+| 📝 Sistem LK Kampus | Digital (activity log) for campus use. | 🛠️ Coming Soon |
 | 🏛️ Sistem Pendaftaran Organisasi | Online registration system for student organizations. | 🛠️ Coming Soon |
 
 ---
@@ -73,7 +72,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
 </p>
 
 ---
