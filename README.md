@@ -32,7 +32,7 @@
 ## 🚀 About Me
 
 - 💻 I love building websites and exploring cybersecurity.  
-- 🎯 Currently learning **Laravel 12**, **ReactJava**, and **Mobile Development**.    
+- 🎯 Currently learning **Laravel 12**, **ReactJS**, and **Mobile Development**.    
 
 ---
 
