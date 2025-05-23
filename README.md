@@ -1,13 +1,16 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7986a50d-a58f-457d-a219-9a9245556acf/dg6x7ox-e107b45a-447e-4bd4-b8f2-0eb4429557d6.gif)
 
 # Hi 👋, I'm Nabil Deja  
+
 ### A passionate Frontend Developer and Cybersecurity Enthusiast  
+**Ingin jago ngoding tapi malas ngoding**
+
 
 <img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 ---
 
-## 🌐 Sosial Saya
+## 🌐 Sosial 
 
 <p align="center">
   <a href="https://github.com/Nbill27" target="_blank" rel="noopener noreferrer">
@@ -30,7 +33,6 @@
 
 - 💻 I love building websites and exploring cybersecurity.  
 - 🎯 Currently learning **Laravel 12**, **ReactJava**, and **Mobile Development**.    
-- 🌍 I'm on a mission to build meaningful digital solutions that solve real-world problems.
 
 ---
 
@@ -43,35 +45,55 @@
 
 ---
 
-## 📌 Projects
+---
 
-### 🔒 [Web Scanner](https://github.com/Nbill27/Nbill27-Website-Security-Scanner)  
-_A powerful website vulnerability scanner built with Python._  
-**Status:** ✅ Published  
+## 📌 Projects Gabut
+
+<table>
+  <tr>
+    <td><b>🔒 <a href="https://github.com/Nbill27/Nbill27-Website-Security-Scanner">Web Scanner</a></b></td>
+  </tr>
+  <tr>
+    <td>
+      🛡️ <i>Website vulnerability scanner built with Python.</i><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚌 [JetBus](https://github.com/Nbill27/JetBus)  
-_Online bus ticket booking system with smooth UX and secure payment integration._  
-**Status:** ✅ Published  
+<table>
+  <tr>
+    <td><b>🚌 <a href="https://github.com/Nbill27/JetBus">JetBus</a></b></td>
+  </tr>
+  <tr>
+    <td>
+      🚌 <i>Online bus ticket booking system with smooth UX and secure payment integration.</i><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌧️ Flood Predictor AI  
-_Predicts flood risk based on rainfall data and geographic elevation using AI models._  
-**Status:** 🛠️ In Progress  
-
----
-
-### 📝 Sistem LK Kampus  
-_Digital activity log system designed for campus use to streamline documentation._  
-**Status:** 🛠️ Coming Soon  
-
----
-
-### 🏛️ Sistem Pendaftaran Organisasi  
-_An online registration platform for student organizations to simplify event management._  
-**Status:** 🛠️ Coming Soon  
+<table>
+  <tr>
+    <td><b>🌧️ Flood Predictor AI</b></td>
+  </tr>
+  <tr>
+    <td>
+      🤖 <i>Predicts flood risk based on rainfall and elevation data using AI models.</i><br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/AI-FF6F00?logo=openai&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,8 +117,6 @@ _An online registration platform for student organizations to simplify event man
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
