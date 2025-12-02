@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nabil Deja  
 
-### A passionate Fullstack Website Developer and Cybersecurity Enthusiast  
+### A passionate Backend Website Developer and Cybersecurity Enthusiast  
 **Ingin jago ngoding tapi malas ngoding**
 
 
