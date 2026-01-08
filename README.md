@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nabil Deja  
 
-### A passionate Backend Website Developer and Cybersecurity Enthusiast  
+### A passionate Backend Developer and Data Enthusiast 
 **Ingin jago ngoding tapi malas ngoding**
 
 
@@ -121,10 +121,7 @@
 
 ---
 
-## 💬 Ask Me About
-  
-- 🌐 *Fullstack Website Development*  
-
+## 💬 Ask Me About  
 ---
 
 ## 🛠️ Tools & Technologies
