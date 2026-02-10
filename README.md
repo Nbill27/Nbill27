@@ -2,15 +2,14 @@
 
 # Hi 👋, I'm Nabil Deja  
 
-### A passionate Backend Developer and Data Enthusiast 
-**Ingin jago ngoding tapi malas ngoding**
-
+### 💻 Full Stack Developer & Data Analyst
+**"Just a student trying to make sense of Data & Web."**
 
 <img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 ---
 
-## 🌐 Sosial 
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/Nbill27" target="_blank" rel="noopener noreferrer">
@@ -31,135 +30,146 @@
 
 ## 🚀 About Me
 
-- 💻 I love building websites and exploring cybersecurity.  
-- 🎯 Currently learning **Laravel 12**, **ReactJS**, and **Mobile Development**.    
+Selain Web, saya juga sedang mendalami dunia **Data Science**. Saya percaya developer yang baik tidak hanya bisa membangun aplikasi, tapi juga bisa mengolah data di dalamnya menjadi keputusan bisnis.
+
+- 🔭 Fokus Web: **PHP Native, Laravel, & React Learning Path**.
+- 📊 Fokus Data: **Python, Data Mining, & Machine Learning**.
+- ⚡ Motto: *apa aja kita garap*
 
 ---
 
-## 🗣️ Languages I Use
+## 🛠️ Tech Stack
 
-- **PHP**  
-- **Java**  
-- **C++**
-- **Python**
+**Web Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+</p>
+
+**Data Science & Engineering:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
+</p>
+
+**Tools & Others:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
+</p>
 
 ---
 
----
+## 💻 Web Development Projects
 
-## 📌 Projects Gabut
+Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbasis web yang handal.
 
 <table>
   <tr>
-    <td><b>🔒 <a href="https://github.com/Nbill27/Nbill27-Website-Security-Scanner">Web Scanner</a></b></td>
+    <th>Project Name</th>
+    <th>Description & Stack</th>
   </tr>
   <tr>
+    <td width="35%"><b>🏫 <a href="https://github.com/renaldi3/SISLEMDA">SISLEMDA</a></b></td>
     <td>
-      🛡️ <i>Website vulnerability scanner built with Python.</i><br/>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
+      Sistem Informasi manajemen pengajuan proposal & event untuk lembaga kampus. Mempermudah birokrasi dan pencatatan kegiatan mahasiswa.<br/>
+      <img src="https://img.shields.io/badge/Stack-PHP_Native-777BB4?style=flat-square"> 
+      <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗳️ <a href="https://github.com/Nbill27/PILKETOS">E-Voting PILKETOS</a></b></td>
+    <td>
+      Aplikasi Electronic Voting untuk pemilihan Ketua OSIS. Dirancang untuk transparansi, mencegah suara ganda, dan real-time count.<br/>
+      <img src="https://img.shields.io/badge/Stack-PHP_Web-orange?style=flat-square">
+      <img src="https://img.shields.io/badge/Feature-Realtime_Count-red?style=flat-square">
     </td>
   </tr>
 </table>
 
 ---
 
+## 📌 Data Analysis & ML Projects
+
 <table>
   <tr>
-    <td><b>🚌 <a href="https://github.com/Nbill27/JetBus">JetBus</a></b></td>
+    <td width="100%">
+      <b>🌾 <a href="https://github.com/Nbill27/Analisis-crop-yield">Crop Yield Prediction & Analysis</a></b>
+    </td>
   </tr>
   <tr>
     <td>
-      🚌 <i>Online bus ticket booking system with smooth UX and secure payment integration.</i><br/>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
+      Proyek <i>End-to-End Machine Learning</i> untuk memprediksi hasil panen.
+      <ul>
+        <li><b>Model:</b> Random Forest Regressor (R2 Score: 97%).</li>
+        <li><b>Insight:</b> Analisis fitur lingkungan Suhu dan validasi relevansi dataset terhadap iklim tropis Indonesia.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-Scikit_Learn-blue?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Analysis-Business_Insight-green?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🇮🇩 <a href="https://github.com/Nbill27/Analisis-Kesenjangan-Digital-Indonesia">Digital Divide Analysis</a></b>
+    </td>
+    <td width="50%">
+      <b>🎵 <a href="https://github.com/Nbill27/spotify-playlist-analysis">Spotify Playlist Analysis</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      Analisis statistik mengenai ketimpangan infrastruktur digital dan penetrasi internet antar provinsi di Indonesia. Visualisasi kesenjangan teknologi terhadap ekonomi lokal.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-Matplotlib-green?style=flat-square" />
+    </td>
+    <td valign="top">
+      <i>Exploratory Data Analysis (EDA)</i> terhadap fitur audio (danceability, energy, valence) dari playlist Spotify untuk memahami tren pola lagu populer.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-<table>
-  <tr>
-    <td><b>🌧️ Flood Predictor AI</b></td>
-  </tr>
-  <tr>
-    <td>
-      🤖 <i>Predicts flood risk based on rainfall and elevation data using AI models.</i><br/>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?logo=openai&logoColor=white&style=flat-square"/>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-<table>
-  <tr>
-      <td><b>⚙️ <a href="https://github.com/renaldi3/SISLEMDA">Sislemda</a></b></td>
-  </tr>
-  <tr>
-    <td>
-      🤖 <i> A web-based application designed to manage the process of submitting and approving events on campus in a structured and efficient manner.</i><br/>
-      <b>Tech Stack:</b><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
-    </td>
-  </tr>
-</table>
+| **Languages Used** | **Profile Stats** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbill27&show_icons=true&locale=en&layout=compact&theme=radical" height="150" /> | <img src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&locale=en&theme=radical" height="150" /> |
 
----
+</div>
 
-## 🌱 Currently Learning
+<br/>
 
-- 🔹 **Laravel 12** (Backend Web Framework)  
-- 🔹 **ReactJava** (Frontend Mobile/Web Hybrid)  
-- 🔹 **Mobile Development** (a little, but learning more!)
-
----
-
-## 💬 Ask Me About  
----
-
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbill27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbill27&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbill27&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="100%" />
+</div>
 
 ---
 
-## 🔢 Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nbill27&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nbill27&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+</div>
