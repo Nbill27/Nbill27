@@ -83,7 +83,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
   <tr>
     <td width="35%"><b>🏫 <a href="https://github.com/renaldi3/SISLEMDA">SISLEMDA</a></b></td>
     <td>
-      Sistem Informasi manajemen pengajuan proposal & event untuk lembaga kampus. Mempermudah birokrasi dan pencatatan kegiatan mahasiswa.<br/>
+      Sistem ini di buat untuk mempermudah perizinan surat yang suka hilang dan tidak tau sudah sampai mana<br/>
       <img src="https://img.shields.io/badge/Stack-PHP_Native-777BB4?style=flat-square"> 
       <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square">
     </td>
@@ -96,8 +96,15 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
       <img src="https://img.shields.io/badge/Feature-Realtime_Count-red?style=flat-square">
     </td>
   </tr>
+  <tr>
+    <td><b>📥 <a href="https://github.com/Nbill27/sosmed-downloader">Sosmed Downloader</a></b></td>
+    <td>
+      Web App untuk mengunduh Video & MP3 dari berbagai sosmed seperti YT, TT, IG, dll. Fitur: Pilih kualitas, Dark Mode, dan UI responsif.<br/>
+      <img src="https://img.shields.io/badge/Stack-Python_Flask-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Frontend-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white">
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 📌 Data Analysis & ML Projects
