@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nabil Deja  
 
-### 💻 Full Stack Developer & Data Analyst
+### 💻 Back End Developer & Data Analyst
 **"Just a student trying to make sense of Data & Web."**
 
 <img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
@@ -28,17 +28,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Selain Web, saya juga sedang mendalami dunia **Data Science**. Saya percaya developer yang baik tidak hanya bisa membangun aplikasi, tapi juga bisa mengolah data di dalamnya menjadi keputusan bisnis.
 
-- 🔭 Fokus Web: **PHP Native, Laravel, & React Learning Path**.
-- 📊 Fokus Data: **Python, Data Mining, & Machine Learning**.
-- ⚡ Motto: *apa aja kita garap*
+- Fokus Web: **PHP Native, Laravel, & React Learning Path**.
+- Fokus Data: **Python, Data Mining, & Machine Learning**.
+- Motto: *apa aja kita garap*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Web Development:**
 <p align="left">
@@ -71,7 +71,7 @@ Selain Web, saya juga sedang mendalami dunia **Data Science**. Saya percaya deve
 
 ---
 
-## 💻 Web Development Projects
+## Web Development Projects
 
 Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbasis web yang handal.
 
@@ -81,7 +81,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
     <th>Description & Stack</th>
   </tr>
   <tr>
-    <td width="35%"><b>🏫 <a href="https://github.com/renaldi3/SISLEMDA">SISLEMDA</a></b></td>
+    <td width="35%"><b><a href="https://github.com/renaldi3/SISLEMDA">SISLEMDA</a></b></td>
     <td>
       Sistem ini di buat untuk mempermudah perizinan surat yang suka hilang dan tidak tau sudah sampai mana<br/>
       <img src="https://img.shields.io/badge/Stack-PHP_Native-777BB4?style=flat-square"> 
@@ -89,7 +89,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
     </td>
   </tr>
   <tr>
-    <td><b>🗳️ <a href="https://github.com/Nbill27/PILKETOS">E-Voting PILKETOS</a></b></td>
+    <td><b><a href="https://github.com/Nbill27/PILKETOS">E-Voting PILKETOS</a></b></td>
     <td>
       Aplikasi Electronic Voting untuk pemilihan Ketua OSIS. Dirancang untuk transparansi, mencegah suara ganda, dan real-time count.<br/>
       <img src="https://img.shields.io/badge/Stack-PHP_Web-orange?style=flat-square">
@@ -97,7 +97,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
     </td>
   </tr>
   <tr>
-    <td><b>📥 <a href="https://github.com/Nbill27/sosmed-downloader">Sosmed Downloader</a></b></td>
+    <td><b><a href="https://github.com/Nbill27/sosmed-downloader">Sosmed Downloader</a></b></td>
     <td>
       Web App untuk mengunduh Video & MP3 dari berbagai sosmed seperti YT, TT, IG, dll. Fitur: Pilih kualitas, Dark Mode, dan UI responsif.<br/>
       <img src="https://img.shields.io/badge/Stack-Python_Flask-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -107,7 +107,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
 </table>
 ---
 
-## 📌 Data Analysis & ML Projects
+## Data Analysis & ML Projects
 
 <table>
   <tr>
@@ -131,10 +131,10 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
 <table>
   <tr>
     <td width="50%">
-      <b>🇮🇩 <a href="https://github.com/Nbill27/Analisis-Kesenjangan-Digital-Indonesia">Digital Divide Analysis</a></b>
+      <b><a href="https://github.com/Nbill27/Analisis-Kesenjangan-Digital-Indonesia">Digital Divide Analysis</a></b>
     </td>
     <td width="50%">
-      <b>🎵 <a href="https://github.com/Nbill27/spotify-playlist-analysis">Spotify Playlist Analysis</a></b>
+      <b><a href="https://github.com/Nbill27/spotify-playlist-analysis">Spotify Playlist Analysis</a></b>
     </td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Selain analisis data, saya memiliki pengalaman membangun sistem informasi berbas
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="100%" />
