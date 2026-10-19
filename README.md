@@ -18,7 +18,7 @@
 
 ---
 
-## `01` / ABOUT ME
+## `01`  ABOUT ME
 
 ```text
 NAME       : Nabil Deja
@@ -38,7 +38,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `02` / TECHNOLOGY STACK
+## `02`  TECHNOLOGY STACK
 
 ### Backend Engineering
 
@@ -66,7 +66,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `03` / SELECTED PROJECTS
+## `03`  SELECTED PROJECTS
 
 <div align="center">
   <a href="https://github.com/renaldi3/SISLEMDA">
@@ -92,7 +92,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `04` / GITHUB STATISTICS
+## `04`  GITHUB STATISTICS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=090014" alt="GitHub statistics" />
@@ -105,7 +105,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `05` / CONTRIBUTION ARCADE
+## `05`  CONTRIBUTION ARCADE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nbill27/Nbill27/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph" />
@@ -117,7 +117,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `06` / CONNECT
+## `06`  CONNECT
 
 <div align="center">
   <a href="https://github.com/Nbill27">
