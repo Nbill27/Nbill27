@@ -18,27 +18,23 @@
 
 ---
 
-## `01`  ABOUT ME
+## ABOUT ME
+<p>
+ I build practical web and mobile applications with a focus on backend logic, API integration, and database design.
 
-```text
-NAME       : Nabil Deja
-ROLE       : Backend Developer / Android Developer
-FOCUS      : APIs, Databases, Mobile Applications
-APPROACH   : Build. Test. Improve.
-```
+I enjoy turning ideas into working software, developing features that solve real-world problems, and improving application reliability through testing and iteration.
+</p>
 
-I am a developer interested in building reliable backend systems and practical Android applications. My focus is on application logic, database management, API integration, and mobile experiences that solve real-world problems.
-
-I enjoy exploring different technologies, building useful projects, and continuously improving my development workflow.
-
-- Backend development with PHP, Laravel, Python, and Flask.
-- Android application development with Flutter and Dart.
-- Database management with MySQL.
-- API integration and offline-capable mobile applications.
+<div align="center">
+<img src="https://img.shields.io/badge/BACKEND-PHP%20%7C%20LARAVEL%20%7C%20FLASK-00F5FF?style=flat-square&labelColor=090014" alt="Backend" />
+<img src="https://img.shields.io/badge/MOBILE-FLUTTER%20%7C%20DART-BC13FE?style=flat-square&labelColor=090014" alt="Mobile" />
+<img src="https://img.shields.io/badge/DATABASE-MYSQL-00F5FF?style=flat-square&labelColor=090014" alt="Database" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-BC13FE?style=flat-square&labelColor=090014" alt="Open to internship" />
+</div>
 
 ---
 
-## `02`  TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 ### Backend Engineering
 
@@ -66,33 +62,126 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `03`  SELECTED PROJECTS
 
-<div align="center">
-  <a href="https://github.com/renaldi3/SISLEMDA">
-    <img width="49%" src="assets/projects/sislemda.svg" alt="SISLEMDA — PHP, MySQL" />
-  </a>
-  <a href="https://github.com/Nbill27/PILKETOS">
-    <img width="49%" src="assets/projects/pilketos.svg" alt="PILKETOS — PHP, MySQL" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Nbill27/sosmed-downloader">
-    <img width="49%" src="assets/projects/sosmed-downloader.svg" alt="Sosmed Downloader — Python, Flask, Tailwind CSS" />
-  </a>
-  <img width="49%" src="assets/projects/item-borrowing-app.svg" alt="Item Borrowing App — Flutter, Dart, REST API (in development)" />
-</div>
+## SELECTED PROJECTS
 
 <p align="center">
+  <sub>
+    Selected projects demonstrating my experience in backend engineering,
+    web application development, AI integration, and mobile development.
+  </sub>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Nbill27/Inventra">
+          Inventra
+        </a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/MOBILE-ANDROID-BC13FE?style=flat-square&labelColor=090014" alt="Android" />
+        <img src="https://img.shields.io/badge/OFFLINE--FIRST-00F5FF?style=flat-square&labelColor=090014" alt="Offline first" />
+      </p>
+      An offline-first Android application for managing item borrowing and returns.
+      Features include inventory management, borrowing history, overdue tracking,
+      and CSV/XLSX import and export, with data stored locally using SQLite.
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <a href="https://github.com/Nbill27/Inventra">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="View Inventra repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Nbill27/jetbusv2">
+          JetBus v2
+        </a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/WEB_APP-BC13FE?style=flat-square&labelColor=090014" alt="Web application" />
+        <img src="https://img.shields.io/badge/BOOKING_SYSTEM-00F5FF?style=flat-square&labelColor=090014" alt="Booking system" />
+      </p>
+      A bus ticket booking web application designed to streamline the
+      reservation process, from trip selection to booking management.
+      The project focuses on application workflows, backend logic,
+      and database-driven operations.
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <a href="https://github.com/Nbill27/jetbusv2">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="View JetBus repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Nbill27/Telegram-Financial-bot">
+          FinBot — Telegram Financial Tracker
+        </a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/TELEGRAM_BOT-BC13FE?style=flat-square&labelColor=090014" alt="Telegram bot" />
+        <img src="https://img.shields.io/badge/AI_INTEGRATION-00F5FF?style=flat-square&labelColor=090014" alt="AI integration" />
+      </p>
+      An AI-powered Telegram bot for tracking personal income and expenses.
+      It supports natural-language transaction input, receipt OCR,
+      financial summaries, and balance tracking, with records stored
+      in Google Sheets.
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square" alt="Groq AI" />
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+      </p>
+      <a href="https://github.com/Nbill27/Telegram-Financial-bot">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="View FinBot repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Nbill27/SISLEMDA-BIU">
+          SISLEMDA — Sistem Lembar Kendali
+        </a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/WEB_APPLICATION-BC13FE?style=flat-square&labelColor=090014" alt="Web application" />
+        <img src="https://img.shields.io/badge/MULTI--ROLE_WORKFLOW-00F5FF?style=flat-square&labelColor=090014" alt="Multi-role workflow" />
+      </p>
+      A web-based academic administration system for managing activity
+      submissions and multi-level approval workflows. It includes
+      role-based access, user and organizational data management,
+      submission tracking, and an interactive dashboard.
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </p>
+      <a href="https://github.com/Nbill27/SISLEMDA-BIU">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="View SISLEMDA repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <br/>
   <a href="https://github.com/Nbill27?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="Aku Masih Pemula Puhh Sepuhhh" />
   </a>
 </p>
 
 ---
 
-## `04`  GITHUB STATISTICS
+## GITHUB STATISTICS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=090014" alt="GitHub statistics" />
@@ -105,7 +194,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `05`  CONTRIBUTION ARCADE
+## CONTRIBUTION ARCADE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nbill27/Nbill27/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph" />
@@ -117,7 +206,7 @@ I enjoy exploring different technologies, building useful projects, and continuo
 
 ---
 
-## `06`  CONNECT
+## CONNECT
 
 <div align="center">
   <a href="https://github.com/Nbill27">
