@@ -93,7 +93,7 @@ I enjoy turning ideas into working software, developing features that solve real
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <a href="https://github.com/Nbill27/Inventra">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="View Inventra repository" />
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View Inventra repository" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -116,7 +116,7 @@ I enjoy turning ideas into working software, developing features that solve real
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
       <a href="https://github.com/Nbill27/jetbusv2">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="View JetBus repository" />
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View JetBus repository" />
       </a>
     </td>
   </tr>
@@ -142,7 +142,7 @@ I enjoy turning ideas into working software, developing features that solve real
         <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
       </p>
       <a href="https://github.com/Nbill27/Telegram-Financial-bot">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="View FinBot repository" />
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View FinBot repository" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -175,7 +175,7 @@ I enjoy turning ideas into working software, developing features that solve real
 <p align="center">
   <br/>
   <a href="https://github.com/Nbill27?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="Aku Masih Pemula Puhh Sepuhhh" />
+    <img src="https://img.shields.io/badge/Aku Masih Pemula Puhh Sepuhhh-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="Aku Masih Pemula Puhh Sepuhhh" />
   </a>
 </p>
 
@@ -184,12 +184,26 @@ I enjoy turning ideas into working software, developing features that solve real
 ## GITHUB STATISTICS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=090014" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbill27&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=C9D1D9&bg_color=090014" alt="Most used programming languages" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=00F5FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=090014"
+    alt="Nabil GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbill27&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=00F5FF&text_color=C9D1D9&bg_color=090014"
+    alt="Most used programming languages"
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Nbill27&theme=dark&hide_border=true&background=090014&ring=BC13FE&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=Nbill27&theme=dark&hide_border=true&background=090014&ring=BC13FE&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 ---
