@@ -29,7 +29,6 @@ I enjoy turning ideas into working software, developing features that solve real
 <img src="https://img.shields.io/badge/BACKEND-PHP%20%7C%20LARAVEL%20%7C%20FLASK-00F5FF?style=flat-square&labelColor=090014" alt="Backend" />
 <img src="https://img.shields.io/badge/MOBILE-FLUTTER%20%7C%20DART-BC13FE?style=flat-square&labelColor=090014" alt="Mobile" />
 <img src="https://img.shields.io/badge/DATABASE-MYSQL-00F5FF?style=flat-square&labelColor=090014" alt="Database" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-BC13FE?style=flat-square&labelColor=090014" alt="Open to internship" />
 </div>
 
 ---
