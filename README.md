@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Reliable+Backend+Systems;Developing+Android+Applications;Flutter+%7C+Dart+%7C+PHP+%7C+Python" alt="Developer introduction" />
 
   <br/>
-
-  <a href="https://github.com/Nbill27">
-    <img src="https://img.shields.io/badge/GITHUB-NBILL27-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="GitHub" />
-  </a>
-  <a href="mailto:nabildeja0@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-EMAIL-BC13FE?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=090014" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/nbill27">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=090014&labelColor=090014" alt="LinkedIn" />
-  </a>
 </div>
 
 ---
@@ -66,8 +56,7 @@ I enjoy turning ideas into working software, developing features that solve real
 
 <p align="center">
   <sub>
-    Selected projects demonstrating my experience in backend engineering,
-    web application development, AI integration, and mobile development.
+    <b>Project Pemula yang lagi gabut saja.</b>
   </sub>
 </p>
 
@@ -75,97 +64,86 @@ I enjoy turning ideas into working software, developing features that solve real
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Nbill27/Inventra">
-          Inventra
+        <a href="https://github.com/Nbill27/muse-opencode">
+          muse-opencode
         </a>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/MOBILE-ANDROID-BC13FE?style=flat-square&labelColor=090014" alt="Android" />
-        <img src="https://img.shields.io/badge/OFFLINE--FIRST-00F5FF?style=flat-square&labelColor=090014" alt="Offline first" />
+        <img src="https://img.shields.io/badge/AI_TOOLING-BC13FE?style=flat-square&labelColor=090014" alt="AI tooling" />
+        <img src="https://img.shields.io/badge/OPENCODE-00F5FF?style=flat-square&labelColor=090014" alt="OpenCode" />
       </p>
-      An offline-first Android application for managing item borrowing and returns.
-      Features include inventory management, borrowing history, overdue tracking,
-      and CSV/XLSX import and export, with data stored locally using SQLite.
+      A local OpenAI-compatible HTTP relay that drives muse.ai's web chat
+      through a real Chromium tab via the Chrome DevTools Protocol
+      letting any OpenAI client use muse.ai without an official API key.
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/OpenCode-6A00F5?style=flat-square" alt="OpenCode" />
       </p>
-      <a href="https://github.com/Nbill27/Inventra">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View Inventra repository" />
+      <a href="https://github.com/Nbill27/muse-opencode">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View muse-opencode repository" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Nbill27/jetbusv2">
-          JetBus v2
+        <a href="https://github.com/Nbill27/opencode-deepseek-web">
+          opencode-deepseek-web
         </a>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/WEB_APP-BC13FE?style=flat-square&labelColor=090014" alt="Web application" />
-        <img src="https://img.shields.io/badge/BOOKING_SYSTEM-00F5FF?style=flat-square&labelColor=090014" alt="Booking system" />
+        <img src="https://img.shields.io/badge/AI_TOOLING-BC13FE?style=flat-square&labelColor=090014" alt="AI tooling" />
+        <img src="https://img.shields.io/badge/DEEPSEEK-00F5FF?style=flat-square&labelColor=090014" alt="DeepSeek" />
       </p>
-      A bus ticket booking web application designed to streamline the
-      reservation process, from trip selection to booking management.
-      The project focuses on application workflows, backend logic,
-      and database-driven operations.
+      Bridges the free DeepSeek web chat into an OpenAI-compatible backend
+      for OpenCode, pacing requests on loopback so an autonomous coding
+      agent doesn't get the account flagged.
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/OpenCode-6A00F5?style=flat-square" alt="OpenCode" />
+        <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek" />
       </p>
-      <a href="https://github.com/Nbill27/jetbusv2">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View JetBus repository" />
+      <a href="https://github.com/Nbill27/opencode-deepseek-web">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View opencode-deepseek-web repository" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Nbill27/Telegram-Financial-bot">
-          FinBot — Telegram Financial Tracker
+        <a href="https://github.com/Nbill27/academic-writing-skills">
+          academic-writing-skills
         </a>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/TELEGRAM_BOT-BC13FE?style=flat-square&labelColor=090014" alt="Telegram bot" />
-        <img src="https://img.shields.io/badge/AI_INTEGRATION-00F5FF?style=flat-square&labelColor=090014" alt="AI integration" />
+        <img src="https://img.shields.io/badge/AGENT_SKILLS-BC13FE?style=flat-square&labelColor=090014" alt="Agent skills" />
+        <img src="https://img.shields.io/badge/ACADEMIC_WRITING-00F5FF?style=flat-square&labelColor=090014" alt="Academic writing" />
       </p>
-      An AI-powered Telegram bot for tracking personal income and expenses.
-      It supports natural-language transaction input, receipt OCR,
-      financial summaries, and balance tracking, with records stored
-      in Google Sheets.
+      Five Agent Skills that carry an Indonesian academic document from
+      outline to submission theses, journal articles, internship and
+      technical reports — adapting to any campus's rules via a guide file.
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square" alt="Groq AI" />
-        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+        <img src="https://img.shields.io/badge/Agent_Skills-6A00F5?style=flat-square" alt="Agent skills" />
       </p>
-      <a href="https://github.com/Nbill27/Telegram-Financial-bot">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View FinBot repository" />
+      <a href="https://github.com/Nbill27/academic-writing-skills">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6A00F5?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=090014" alt="View academic-writing-skills repository" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Nbill27/SISLEMDA-BIU">
-          SISLEMDA — Sistem Lembar Kendali
+        <a href="https://github.com/Nbill27/hushwire">
+          hushwire
         </a>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/WEB_APPLICATION-BC13FE?style=flat-square&labelColor=090014" alt="Web application" />
-        <img src="https://img.shields.io/badge/MULTI--ROLE_WORKFLOW-00F5FF?style=flat-square&labelColor=090014" alt="Multi-role workflow" />
+        <img src="https://img.shields.io/badge/NETWORK_TOOL-BC13FE?style=flat-square&labelColor=090014" alt="Network tool" />
+        <img src="https://img.shields.io/badge/SINGLE_BINARY-00F5FF?style=flat-square&labelColor=090014" alt="Single binary" />
       </p>
-      A web-based academic administration system for managing activity
-      submissions and multi-level approval workflows. It includes
-      role-based access, user and organizational data management,
-      submission tracking, and an interactive dashboard.
+      A single Go binary that scans the local subnet and cuts individual
+      devices off the network via ARP poisoning, controllable from any
+      browser. Built for network-ops and lab use, not Wi-Fi deauthing.
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/ARP-6A00F5?style=flat-square" alt="ARP" />
       </p>
-      <a href="https://github.com/Nbill27/SISLEMDA-BIU">
-        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="View SISLEMDA repository" />
+      <a href="https://github.com/Nbill27/hushwire">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="View hushwire repository" />
       </a>
     </td>
   </tr>
@@ -218,25 +196,6 @@ I enjoy turning ideas into working software, developing features that solve real
 </p>
 
 ---
-
-## CONNECT
-
-<div align="center">
-  <a href="https://github.com/Nbill27">
-    <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=090014&labelColor=090014" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/nnbiiill">
-    <img src="https://img.shields.io/badge/INSTAGRAM-BC13FE?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=090014" alt="Instagram" />
-  </a>
-  <a href="mailto:nabildeja0@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00F5FF?style=for-the-badge&logo=gmail&logoColor=090014&labelColor=090014" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/nbill27">
-    <img src="https://img.shields.io/badge/LINKEDIN-BC13FE?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=090014" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nbill27&label=PROFILE%20VIEWS&color=00F5FF&style=flat-square" alt="Profile views" />
