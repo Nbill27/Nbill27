@@ -112,7 +112,7 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&border_color=3d444d&title_color=0066ff&icon_color=0066ff&text_color=c9d1d9&border_radius=8" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Nbill27&background=0d1117&border=3d444d&stroke=0066ff&ring=0066ff&fire=0066ff&currStreakLabel=0066ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nbill27&background=0d1117&border=3d444d&stroke=0066ff&ring=0066ff&fire=0066ff&currStreakNum=e6edf3&currStreakLabel=0066ff&sideNums=e6edf3&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
