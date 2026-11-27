@@ -1,7 +1,5 @@
 <a name="top"></a>
 
-<code>elbilll@GitHub:~$ cat README.md</code>
-
 <p align="center">
   <img src="assets/banner.png" alt="ELbilll" width="100%" />
   <a href="#about">About</a> •
