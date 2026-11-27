@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nbill27&label=Profile%20Views&color=0066ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Nbill27&query=%24.stars&label=Total%20Stars&color=0066ff&style=for-the-badge" alt="Total Stars" />
-  <img src="https://img.shields.io/github/followers/Nbill27?label=Followers&color=0066ff&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNbill27&query=%24.public_repos&label=Repositories&color=0066ff&style=for-the-badge" alt="Repositories" />
+  <img src="https://komarev.com/ghpvc/?username=Nbill27&label=Profile%20Views&color=3d444d&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Nbill27&query=%24.stars&label=Total%20Stars&color=3d444d&style=for-the-badge" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/Nbill27?label=Followers&color=3d444d&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNbill27&query=%24.public_repos&label=Repositories&color=3d444d&style=for-the-badge" alt="Repositories" />
 </p>
 
 <a name="about"></a>
@@ -32,7 +32,7 @@ My interests span Android development, backend engineering, developer tooling, a
 <a name="what-i-do"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=0066FF&center=true&vCenter=true&width=500&lines=WHAT+I+DO;Build.+Break.+Learn.+Repeat." alt="What I Do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=500&lines=WHAT+I+DO;Build.+Break.+Learn.+Repeat." alt="What I Do" />
 </p>
 
 ### Android & Application Development
@@ -52,7 +52,7 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
 <a name="projects"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=0066FF&center=true&vCenter=true&width=500&lines=SELECTED+PROJECTS;A+few+things+I've+been+building." alt="Selected Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=500&lines=SELECTED+PROJECTS;A+few+things+I've+been+building." alt="Selected Projects" />
 </p>
 
 <table width="100%">
@@ -60,46 +60,46 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nbill27/openclone">OpenClone</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/ANDROID-0066ff?style=flat-square&labelColor=24292f" alt="Android" />
-        <img src="https://img.shields.io/badge/KOTLIN-0066ff?style=flat-square&labelColor=24292f" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/ANDROID-3d444d?style=flat-square&labelColor=24292f" alt="Android" />
+        <img src="https://img.shields.io/badge/KOTLIN-3d444d?style=flat-square&labelColor=24292f" alt="Kotlin" />
       </p>
       An open-source Android app cloning utility that creates a separate, installable APK from an app already on the device — without root, ads, accounts, or a remote server.
-      <p><a href="https://github.com/Nbill27/openclone"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="View OpenClone repository" /></a></p>
+      <p><a href="https://github.com/Nbill27/openclone"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-3d444d?style=for-the-badge&logo=github&logoColor=white" alt="View OpenClone repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nbill27/Inventra">Inventra</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/ANDROID-0066ff?style=flat-square&labelColor=24292f" alt="Android" />
-        <img src="https://img.shields.io/badge/FLUTTER-0066ff?style=flat-square&labelColor=24292f" alt="Flutter" />
+        <img src="https://img.shields.io/badge/ANDROID-3d444d?style=flat-square&labelColor=24292f" alt="Android" />
+        <img src="https://img.shields.io/badge/FLUTTER-3d444d?style=flat-square&labelColor=24292f" alt="Flutter" />
       </p>
       An offline Android application for tracking equipment loans, due dates, returns, and overdue items. Uses SQLite, with reminders and spreadsheet import/export.
-      <p><a href="https://github.com/Nbill27/Inventra"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="View Inventra repository" /></a></p>
+      <p><a href="https://github.com/Nbill27/Inventra"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-3d444d?style=for-the-badge&logo=github&logoColor=white" alt="View Inventra repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nbill27/academic-writing-skills">academic-writing-skills</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/AGENT_SKILLS-0066ff?style=flat-square&labelColor=24292f" alt="Agent Skills" />
-        <img src="https://img.shields.io/badge/ACADEMIC_WRITING-0066ff?style=flat-square&labelColor=24292f" alt="Academic Writing" />
+        <img src="https://img.shields.io/badge/AGENT_SKILLS-3d444d?style=flat-square&labelColor=24292f" alt="Agent Skills" />
+        <img src="https://img.shields.io/badge/ACADEMIC_WRITING-3d444d?style=flat-square&labelColor=24292f" alt="Academic Writing" />
       </p>
       A collection of five agent skills for Indonesian academic writing, covering outlines, drafts, editing, and audits for theses, journal articles, internship reports, and technical reports.
-      <p><a href="https://github.com/Nbill27/academic-writing-skills"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="View academic-writing-skills repository" /></a></p>
+      <p><a href="https://github.com/Nbill27/academic-writing-skills"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-3d444d?style=for-the-badge&logo=github&logoColor=white" alt="View academic-writing-skills repository" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nbill27/hushwire">hushwire</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/GO-0066ff?style=flat-square&labelColor=24292f" alt="Go" />
-        <img src="https://img.shields.io/badge/NETWORK_TOOL-0066ff?style=flat-square&labelColor=24292f" alt="Network Tool" />
+        <img src="https://img.shields.io/badge/GO-3d444d?style=flat-square&labelColor=24292f" alt="Go" />
+        <img src="https://img.shields.io/badge/NETWORK_TOOL-3d444d?style=flat-square&labelColor=24292f" alt="Network Tool" />
       </p>
       A single Go binary for local network discovery and browser-controlled device isolation, designed for network operations and controlled lab testing.
-      <p><a href="https://github.com/Nbill27/hushwire"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="View hushwire repository" /></a></p>
+      <p><a href="https://github.com/Nbill27/hushwire"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-3d444d?style=for-the-badge&logo=github&logoColor=white" alt="View hushwire repository" /></a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Nbill27?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
+  <a href="https://github.com/Nbill27?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-3d444d?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
 </p>
 
 ---
@@ -107,16 +107,16 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
 <a name="github-stats"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=0066FF&center=true&vCenter=true&width=500&lines=GITHUB+STATISTICS" alt="GitHub Statistics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=500&lines=GITHUB+STATISTICS" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&border_color=3d444d&title_color=0066ff&icon_color=0066ff&text_color=c9d1d9&border_radius=8" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Nbill27&background=0d1117&border=3d444d&stroke=0066ff&ring=0066ff&fire=0066ff&currStreakNum=e6edf3&currStreakLabel=0066ff&sideNums=e6edf3&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&border_color=3d444d&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Nbill27&background=0d1117&border=3d444d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=e6edf3&currStreakLabel=ffffff&sideNums=e6edf3&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbill27&layout=compact&langs_count=10&bg_color=0d1117&border_color=3d444d&title_color=0066ff&text_color=c9d1d9&border_radius=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbill27&layout=compact&langs_count=10&bg_color=0d1117&border_color=3d444d&title_color=ffffff&text_color=c9d1d9&border_radius=8" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -127,5 +127,5 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
   <a href="#top"><img src="https://img.shields.io/badge/Back_to_the_Top-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top" /></a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0066ff&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&section=footer" width="100%" alt="Footer" />
 </p>
