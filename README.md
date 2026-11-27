@@ -111,9 +111,12 @@ Experimenting with local tools, AI-assisted development workflows, HTTP relays, 
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Nbill27&border_radius=8&hide_title=true&hide=stars%2Cprs%2Cissues%2Cfollowers%2Crepos%2Ctrend%2Cgrade&icon_color=0066ff&border_color=3d444d&title_color=0066ff" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/sparkline?username=Nbill27&days=30&border_radius=8&width=225&height=225&title=&line_color=0066ff&fill_color=0066ff&border_color=3d444d&title_color=0066ff" alt="Contribution Sparkline" />
-  <img src="https://ghstats.dev/api/langs?username=Nbill27&custom_title=Top+Languages&max_langs=12&border_radius=8&hide_title=true&border_color=3d444d&title_color=0066ff&layout=horizontal_list" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nbill27&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&border_color=3d444d&title_color=0066ff&icon_color=0066ff&text_color=c9d1d9&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Nbill27&background=0d1117&border=3d444d&stroke=0066ff&ring=0066ff&fire=0066ff&currStreakLabel=0066ff&sideLabels=c9d1d9&dates=c9d1d9&border_radius=8" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbill27&layout=compact&langs_count=10&bg_color=0d1117&border_color=3d444d&title_color=0066ff&text_color=c9d1d9&border_radius=8" height="165" alt="Top Languages" />
 </p>
 
 ---
